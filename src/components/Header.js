@@ -1,7 +1,4 @@
 import React from "react";
-import "bootstrap/dist/css/bootstrap.min.css";
-import "bootstrap/dist/js/bootstrap.bundle.min.js"; // <-- REQUIRED for toggler, collapse, etc.
-
 import { Link, NavLink } from "react-router-dom";
 import Newslogo from "../Images/Newslogo.svg";
 
