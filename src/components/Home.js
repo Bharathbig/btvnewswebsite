@@ -116,7 +116,7 @@ const Home = () => {
             rel="noopener noreferrer" 
             className="btn btn-danger btn-lg rounded-pill px-4"
           >
-            <i className="bi bi-youtube me-2"></i> Visit Our Btv News YouTube Channel
+            <i className="bi bi-youtube me-2"></i> Visit Our Btv media News YouTube Channel
           </a>
         </div>
       </section>
