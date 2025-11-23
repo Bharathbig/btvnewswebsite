@@ -33,7 +33,7 @@ const Reporters = () => {
     { id: "25004", name: "B. Laxman Rao", area: "Visakhapatnam District", contact: "+91 8519822213" },
     { id: "25005", name: "P. Vasu", area: "Ponduru Mandalam Srikakulam", contact: "+91 9676971477" },
     { id: "25006", name: "P. Jagadeesh", area: "Gajuwaka Visakhapatnam", contact: "+91 8500231958" },
-    { id: "25007", name: "H. Lachumayya", area: "Vizianagaram District", contact: "+91 7382699451" },
+    { id: "25007", name: "H. Lachumayya", area: "Vizianagaram District", contact: "+91 7382699452" },
     { id: "25008", name: "P. Sunil", area: "Anakapalli District", contact: "+91 90032 10708" },
     { id: "25009", name: "H. Harsha", area: "Vijayawada District", contact: "+91 8523894251" },
     { id: "25010", name: "S. Bhaskhar", area: "Sarubujjili", contact: "+91 8523894251" },
